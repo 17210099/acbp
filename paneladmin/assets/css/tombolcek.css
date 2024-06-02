@@ -1,0 +1,22 @@
+<style type='text/css'>
+button{
+    border: none;
+    padding: 13px 17px;
+    border-radius: 10px;
+   font-family:&#39;Muli&#39;, sans-serif;
+    color: white;
+    display: inline-block;
+    cursor: pointer;
+    text-decoration: none;
+}
+.warna{background-color: #498CFB;}
+.warna1{background-color: #FF2867;}
+.warna2{background-color: #28BF7B;}
+.warna3{background-color: #FF2047;}
+.warna4{background-color: #E58F16;}  
+
+button:hover{
+    background-color: #333;
+}
+
+ </style>
